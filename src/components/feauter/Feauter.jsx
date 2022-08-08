@@ -4,7 +4,7 @@ import './feauter.css';
 const Feauter =()=> {
 return (
     <div>
-        Feauter
+        Feauters
     </div>
     )
 }
